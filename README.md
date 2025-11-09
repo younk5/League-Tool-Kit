@@ -1,0 +1,1 @@
+[![Releases]([https://img.shields.io/github/v/release/SEU_USUARIO/SEU_REPOSITORIO](https://wiki.leagueoflegends.com/en-us/images/Tiamat_item.png?7f1e3))]([https://github.com/SEU_USUARIO/SEU_REPOSITORIO](https://github.com/younk5/League-Tool-Kit/releases)
