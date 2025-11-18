@@ -8,10 +8,13 @@ Advanced automation toolkit for **League of Legends**, featuring modern UI, high
 ## 👤 Credits & Developers
 
 ### ⚡ Younk  
-**Lead Developer & Designer**
+**Lead Developer**
 
 ### ⚡ Gyaf  
 **Core Developer & Architect**
+
+### ⚡ Nate
+**Designer**
 
 ---
 
